@@ -1,0 +1,84 @@
+title: RoxasHat (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: obj\H_EX500.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\H_EX500.mdlx
+- name: obj\P_EX100.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX100.mdlx
+- name: remastered\obj\H_EX500.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\H_EX500.mdlx\-0.dds
+- name: remastered\obj\H_EX500.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\H_EX500.mdlx\-1.dds
+- name: remastered\obj\H_EX500.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\H_EX500.mdlx\-2.dds
+- name: remastered\obj\H_EX500.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\H_EX500.mdlx\-3.dds
+- name: remastered\obj\H_EX500.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\H_EX500.mdlx\-4.dds
+- name: remastered\obj\P_EX100.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-0.dds
+- name: remastered\obj\P_EX100.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-1.dds
+- name: remastered\obj\P_EX100.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-2.dds
+- name: remastered\obj\P_EX100.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-3.dds
+- name: remastered\obj\P_EX100.mdlx\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-4.dds
+- name: remastered\obj\P_EX100.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX100.mdlx\-5.dds
